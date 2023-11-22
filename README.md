@@ -1,6 +1,6 @@
-## Sales Insights Data Analysis Project
+Sales Insights Data Analysis Project
 
-### Data Analysis Using SQL
+ Data Analysis Using SQL
 
 1. Show all customer records
 
